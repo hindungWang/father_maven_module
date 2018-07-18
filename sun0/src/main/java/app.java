@@ -1,6 +1,6 @@
-public class App {
+public class app {
     public static void main(String [] agvs)
     {
-        System.out.println("hello1");
+        System.out.println("hello2");
     }
 }

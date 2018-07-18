@@ -11,6 +11,8 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 *.iml
+
+
 # sun1
 
 sun/target/
@@ -19,4 +21,14 @@ sun/pom.xml.releaseBackup
 sun/pom.xml.versionsBackup
 sun/pom.xml.next
 sun/*.iml
+
+
+# sun2
+
+sun0/target/
+sun0/pom.xml.tag
+sun0/pom.xml.releaseBackup
+sun0/pom.xml.versionsBackup
+sun0/pom.xml.next
+sun0/*.iml
 
