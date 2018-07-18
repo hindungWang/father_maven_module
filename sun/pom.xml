@@ -11,7 +11,7 @@
 
     <artifactId>sun</artifactId>
 
-    <name>maven_test</name>
+    <name>sun_test</name>
     <build>
     <sourceDirectory>src/main/java</sourceDirectory>
     <finalName>sun_test_filename</finalName><!--你的jar文件的名字-->
