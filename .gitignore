@@ -1,0 +1,21 @@
+# father
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+*.iml
+# sun1
+
+sun/target/
+sun/pom.xml.tag
+sun/pom.xml.releaseBackup
+sun/pom.xml.versionsBackup
+sun/pom.xml.next
+sun/*.iml
+
