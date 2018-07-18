@@ -11,14 +11,14 @@ fun(){
         cd $1
         echo "into $1 file..."
 
-        echo "--------execute----clean--------"
+        echo "execute mvn clean..."
         mvn clean >> ../temp_sp
 
-        echo "--------execute----package-------"
+        echo "execute mvn package..."
 
         mvn package >> ../temp_sp
 
-        echo "--------execute----java--jar-----"
+        echo "execute java -jar target/$2..."
 
         echo "--------$1--output---------------"
         java -jar target/$2
